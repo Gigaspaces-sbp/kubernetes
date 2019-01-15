@@ -18,6 +18,7 @@ To overcome these limitations, GigaSpaces products include a powerful and versat
 These third-party applications can be installed in Kubernetes to enable monitoring, analytics and data visualization for InsightEdge and XAP installed with KubeGrid. This topic describes a sample configuration of InfluxDB and Grafana in Kubernetes, using sample dashboards to display data from the data grid.
 
 For more details, please go to the [GigaSpaces Solutions and Patterns](https://docs.gigaspaces.com/sbp/) website.
+
 Note: The data in the InfluxDB database is lost if the application is undeployed from your system.
 
 # Prerequisites
